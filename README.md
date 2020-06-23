@@ -1,3 +1,2 @@
-# OfekDinismanPhotography
 # OfekDinismanPhotography.github.io
-# OfekDinismanPhotography.github.io
+photography website in construction stage
